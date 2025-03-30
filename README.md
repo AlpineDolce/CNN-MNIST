@@ -1,6 +1,6 @@
 ## 📖프로젝트 요약
 
-![cnn.jpeg](attachment:ceb53da1-0f88-4262-b90c-8129ec789f6a:cnn.jpeg)
+![cnn](https://github.com/user-attachments/assets/0d1c0da7-857b-4350-8465-6ff8c21608a1)
 
 - 프로젝트 소개
     - PyTorch를 활용여하 CNN의 모델을 구현하여 MNIST 데이터로 해당 모델 학습하고 MNIST의 숫자 손글씨 데이터 예측하여 정확성을 개선하도록 합니다.
@@ -19,21 +19,15 @@
 - **분석 계획 수립**
     - PyTorch.nn 라이브러리를 활용한 CNN 모델 코드 구현
 - **모델 개발 및 성능 평가**
-    
-    ![output.png](attachment:52838a26-e517-4e23-89a8-371f65545653:output.png)
-    
+    ![output](https://github.com/user-attachments/assets/5ef7bcd5-88e5-4e9e-ba84-2e90a4c18874)
     - MNIST 손글씨 정확도 예측: CNN 모델(0.998의 정확성).
-        
-        ![accuracy.png](attachment:75beae82-e96e-49fb-a9cb-77d5c0f41800:accuracy.png)
-        
+        ![accuracy](https://github.com/user-attachments/assets/138c5358-f9fd-4cc9-a035-0448fa9dfaae)
     - 정확도 분석: Confusion Matrix로 예측 상황 파악
-        
-        ![cm.png](attachment:64b0f7e5-9a71-48e8-b8bd-28cb4cba6e94:cm.png)
+        ![cm](https://github.com/user-attachments/assets/1c6660d2-2cb3-46a6-af6b-4dfac991b0db)
         
 
 ## 😖향후 계획
-
-![001.ipynb - .cursor-tutor - Cursor 2025-03-29 오후 10_41_16.png](attachment:caefce75-19ab-4059-9c0f-c2395aaed070:001.ipynb_-_.cursor-tutor_-_Cursor_2025-03-29_오후_10_41_16.png)
+![001 ipynb -  cursor-tutor - Cursor 2025-03-29 오후 10_41_16](https://github.com/user-attachments/assets/4c6fd2b9-b606-4619-a50e-ce75df49a470)
 
 - **추가 개선 가능성**
 
